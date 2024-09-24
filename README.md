@@ -1,1 +1,2 @@
-# .github
+# Dragynruit
+Horribly good sofware written in that crab language...
